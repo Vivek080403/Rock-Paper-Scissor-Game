@@ -1,0 +1,68 @@
+body {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url('plain-background-0aqx3e65vih1xev1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.header {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Playpen Sans', cursive;
+}
+
+.title {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.resetbutton {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.RockButton {
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    border: 3px solid white;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.PaperButton {
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    border: 3px solid white;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.ScissorsButton {
+    width: 120px;
+    height: 120px;
+    border-radius: 60px;
+    border: 3px solid white;
+    cursor: pointer;
+}
+
+.buttonsdiv {
+    margin-bottom: 40px;
+}
+
+.move-icon {
+    height: 50px;
+}
+
+.js-moves {
+    margin-bottom: 50px;
+}
+
+.result {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+}
